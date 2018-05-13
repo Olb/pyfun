@@ -5,7 +5,7 @@ class PyFun(unittest.TestCase):
     print("Test 1")
 
   def test_prints(sef):
-    print("Test 2)
+    print("Test 2")
 
 
 if __name__ == "__main__":
